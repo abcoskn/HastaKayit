@@ -1,0 +1,12 @@
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\bin\Debug\HastaKayit3.exe.config
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\bin\Debug\HastaKayit3.exe
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\bin\Debug\HastaKayit3.pdb
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\obj\Debug\HastaKayit3.csprojResolveAssemblyReference.cache
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\obj\Debug\HastaKayit3.Form1.resources
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\obj\Debug\HastaKayit3.Properties.Resources.resources
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\obj\Debug\HastaKayit3.csproj.GenerateResource.Cache
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\obj\Debug\HastaKayit3.exe
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\obj\Debug\HastaKayit3.pdb
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\obj\Debug\HastaKayit3.Form2.resources
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\obj\Debug\HastaKayit3.anamenu.resources
+c:\users\abdul\documents\visual studio 2015\Projects\HastaKayit3\HastaKayit3\obj\Debug\HastaKayit3.Form3.resources
